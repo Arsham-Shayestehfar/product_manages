@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Infrastructure.Context.Configuration;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +23,7 @@ namespace Infrastructure.Context
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration( new ProductConfiguration() );
+            modelBuilder.ApplyConfiguration( new UserConfiguration() );
         }
     }
 }

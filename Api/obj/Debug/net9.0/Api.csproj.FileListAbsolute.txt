@@ -179,3 +179,7 @@ D:\lib\Product_Manages\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\lib\Product_Manages\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\lib\Product_Manages\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\lib\Product_Manages\Api\bin\Debug\net9.0\SwaggerComment.xml
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\JWT.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Newtonsoft.Json.dll
