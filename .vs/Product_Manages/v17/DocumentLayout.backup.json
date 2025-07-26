@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\lib\\Product_Manages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|d:\\lib\\product_manages\\infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|d:\\lib\\product_manages\\infrastructure\\migrations\\20250726083638_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250726083638_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|d:\\lib\\product_manages\\infrastructure\\migrations\\20250726083638_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250726083638_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\queryhandler\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\queryhandler\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +114,95 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:41:08.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250726083638_add.Designer.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Migrations\\20250726083638_add.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250726083638_add.Designer.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Migrations\\20250726083638_add.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250726083638_add.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:40:11.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250726083638_add.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Migrations\\20250726083638_add.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250726083638_add.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Migrations\\20250726083638_add.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250726083638_add.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:36:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:30:48.556Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:28:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "D:\\lib\\Product_Manages\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T08:27:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GetAllProductsHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\QueryHandler\\GetAllProductsHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\QueryHandler\\GetAllProductsHandler.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\QueryHandler\\GetAllProductsHandler.cs",
               "RelativeToolTip": "Application\\Products\\Handlers\\QueryHandler\\GetAllProductsHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:23:33.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:23:33.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "GetAllProductsQuery.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Queries\\GetAllProductsQuery.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Queries\\GetAllProductsQuery.cs",
@@ -111,12 +210,11 @@
               "RelativeToolTip": "Application\\Products\\Queries\\GetAllProductsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:23:13.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:23:13.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
@@ -124,12 +222,11 @@
               "RelativeToolTip": "Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:22:25.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:22:25.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "Application\\Dto\\ProductDto.cs",
@@ -137,12 +234,11 @@
               "RelativeToolTip": "Application\\Dto\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:21:37.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:21:37.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "GetProductByIdQuery.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Queries\\GetProductByIdQuery.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Queries\\GetProductByIdQuery.cs",
@@ -150,12 +246,11 @@
               "RelativeToolTip": "Application\\Products\\Queries\\GetProductByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:21:02.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:21:02.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
@@ -163,12 +258,11 @@
               "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwBsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:20:26.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:20:26.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Commands\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Commands\\DeleteProductCommand.cs",
@@ -176,25 +270,23 @@
               "RelativeToolTip": "Application\\Products\\Commands\\DeleteProductCommand.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAUwAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:19:02.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:19:02.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
               "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA2wCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:18:12.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:18:12.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "UpdateProductCommand.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Commands\\UpdateProductCommand.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Commands\\UpdateProductCommand.cs",
@@ -202,12 +294,11 @@
               "RelativeToolTip": "Application\\Products\\Commands\\UpdateProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:17:43.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:17:43.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
@@ -215,12 +306,11 @@
               "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAcwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:16:06.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:16:06.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "CreateProductCommand.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Commands\\CreateProductCommand.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Commands\\CreateProductCommand.cs",
@@ -228,12 +318,11 @@
               "RelativeToolTip": "Application\\Products\\Commands\\CreateProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:12:33.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:12:33.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\Configuration\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\Configuration\\ProductConfiguration.cs",
@@ -241,38 +330,35 @@
               "RelativeToolTip": "Infrastructure\\Context\\Configuration\\ProductConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:51:30.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T07:51:30.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\AppDbContext.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBcAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwBcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:50:14.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T07:50:14.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:48:40.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T07:48:40.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Application\\Repositories\\IProductRepository.cs",
@@ -280,12 +366,11 @@
               "RelativeToolTip": "Application\\Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:45:22.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T07:45:22.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
@@ -293,12 +378,11 @@
               "RelativeToolTip": "Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:40:17.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T07:40:17.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
@@ -306,8 +390,7 @@
               "RelativeToolTip": "Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:39:50.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T07:39:50.68Z"
             }
           ]
         }
