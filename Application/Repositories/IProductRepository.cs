@@ -9,10 +9,10 @@ namespace Application.Repositories
 {
     public interface IProductRepository
     {
-        Task<Product> GetByIdAsync(int id);
-        Task<IEnumerable<Product>> GetAllAsync();
-        Task AddAsync(Product product);
-        Task UpdateAsync(Product product);
-        Task DeleteAsync(Product product);
+        Task<Domain.Entities.Product> GetByIdAsync(int id);
+        Task<IEnumerable<Domain.Entities.Product>> GetAllAsync();
+        Task AddAsync(Domain.Entities.Product product);
+        Task UpdateAsync(Domain.Entities.Product product);
+        Task DeleteAsync(Domain.Entities.Product product);
     }
 }
