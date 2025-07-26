@@ -1,4 +1,5 @@
-﻿using Application.Products.Commands;
+﻿using Application.Exceptions;
+using Application.Products.Commands;
 using Application.Repositories;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -26,12 +27,12 @@ namespace Application.Products.Handlers.CommandHandler
 
             var product = await _repository.GetByIdAsync(request.Id);
             if (product == null)
-                throw new Exception("Product not found");
+                throw new ProductNotFoundException(request.Id);
 
             var userId = int.Parse(_httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value);
 
             if (product.CreatedByUserId != userId)
-                throw new UnauthorizedAccessException("شما اجازه حذف این محصول را ندارید");
+                throw new UnauthorizedProductAccessException();
 
             await _repository.DeleteAsync(product);
            

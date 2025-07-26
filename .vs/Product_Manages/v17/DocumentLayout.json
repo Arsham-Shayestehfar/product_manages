@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\lib\\Product_Manages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\queryhandler\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\queryhandler\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0773AE7D-891C-4F8F-AE69-1556E46EB053}|Domain\\Domain.csproj|d:\\lib\\product_manages\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0773AE7D-891C-4F8F-AE69-1556E46EB053}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\exceptions\\unauthorizedproductaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\exceptions\\unauthorizedproductaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\exceptions\\productnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\exceptions\\productnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
               "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAzwCEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:42:36.657Z",
+              "WhenOpened": "2025-07-26T21:20:34.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:42:08.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
               "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:39:59.246Z",
+              "WhenOpened": "2025-07-26T21:19:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "Application\\Products\\Handlers\\QueryHandler\\GetProductByIdHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T21:18:58.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
-              "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwBsAAAB1AAAAAAAAAA==",
+              "Title": "UnauthorizedProductAccessException.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Exceptions\\UnauthorizedProductAccessException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\UnauthorizedProductAccessException.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Exceptions\\UnauthorizedProductAccessException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\UnauthorizedProductAccessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:36:57.776Z",
+              "WhenOpened": "2025-07-26T21:18:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T21:17:49.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "ProductNotFoundException .cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Exceptions\\ProductNotFoundException .cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ProductNotFoundException .cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Exceptions\\ProductNotFoundException .cs",
+              "RelativeToolTip": "Application\\Exceptions\\ProductNotFoundException .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:36:12.907Z",
+              "WhenOpened": "2025-07-26T21:16:22.34Z",
               "EditorCaption": ""
             }
           ]

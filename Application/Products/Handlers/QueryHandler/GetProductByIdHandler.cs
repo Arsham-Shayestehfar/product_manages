@@ -1,4 +1,5 @@
 ﻿using Application.Dto;
+using Application.Exceptions;
 using Application.Products.Queries;
 using Application.Repositories;
 using MediatR;
@@ -22,7 +23,8 @@ namespace Application.Products.Handlers.QueryHandler
         public async Task<ProductDto> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
         {
             var product = await _repository.GetByIdAsync(request.Id);
-            if (product == null) return null;
+            if (product == null)
+                throw new ProductNotFoundException(request.Id);
 
             return new ProductDto
             {
