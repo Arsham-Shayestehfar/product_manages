@@ -14,4 +14,11 @@
     <PackageReference Include="MediatR" Version="13.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Users\Commands\" />
+    <Folder Include="Users\Handlers\CommandHandler\" />
+    <Folder Include="Users\Handlers\QueryHandler\" />
+    <Folder Include="Users\Queries\" />
+  </ItemGroup>
+
 </Project>
