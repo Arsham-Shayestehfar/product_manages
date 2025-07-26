@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\lib\\Product_Manages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\utility\\swaggerproductdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\utility\\swaggerproductdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:09:37.465Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -31,44 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Api",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Api.csproj",
-              "RelativeDocumentMoniker": "Api\\Api.csproj",
-              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Api.csproj",
-              "RelativeToolTip": "Api\\Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-26T08:49:13.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwE8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:46:33.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SwaggerProductDocument.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Utility\\SwaggerProductDocument.cs",
-              "RelativeDocumentMoniker": "Api\\Utility\\SwaggerProductDocument.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Utility\\SwaggerProductDocument.cs",
-              "RelativeToolTip": "Api\\Utility\\SwaggerProductDocument.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDkAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:44:54.55Z",
-              "EditorCaption": ""
             }
           ]
         }

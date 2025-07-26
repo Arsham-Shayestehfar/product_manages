@@ -97,7 +97,6 @@ if (app.Environment.IsDevelopment())
             x.SwaggerEndpoint($"/swagger/{item.GroupName}/swagger.json", item.GroupName.ToString());
         }
 
-        //x.SwaggerEndpoint("/swagger/VilaOpenApi/swagger.json", " Vila Open Api");
         x.RoutePrefix = "";
     });
 }
