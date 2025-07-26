@@ -173,3 +173,9 @@ D:\lib\Product_Manages\Api\obj\Debug\net9.0\refint\Api.dll
 D:\lib\Product_Manages\Api\obj\Debug\net9.0\Api.pdb
 D:\lib\Product_Manages\Api\obj\Debug\net9.0\Api.genruntimeconfig.cache
 D:\lib\Product_Manages\Api\obj\Debug\net9.0\ref\Api.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\lib\Product_Manages\Api\bin\Debug\net9.0\SwaggerComment.xml
