@@ -35,7 +35,12 @@ namespace Infrastructure.Context.Configuration
 
             builder.Property(p=>p.IsAvailable)
                 .IsRequired();
-            
+
+
+            builder.HasIndex(p => new {
+                p.ManufactureEmail,
+                p.ProduceDate
+            }).IsUnique();
         }
     }
 }
