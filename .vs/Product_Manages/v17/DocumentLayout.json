@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "D:\\lib\\Product_Manages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|d:\\lib\\product_manages\\infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|d:\\lib\\product_manages\\infrastructure\\context\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23CBD6-7066-4E35-9916-B43D18FA083B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\users\\handlers\\commandhandler\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\users\\handlers\\commandhandler\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\users\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\users\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\users\\handlers\\commandhandler\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\users\\handlers\\commandhandler\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\users\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\users\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|d:\\lib\\product_manages\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CB9BA10-8F6A-4A63-BD83-34F3F60FBC13}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|d:\\lib\\product_manages\\application\\products\\handlers\\commandhandler\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D0EB7-4804-4D28-BFD0-F5634ED5A2C0}|Application\\Application.csproj|solutionrelative:application\\products\\handlers\\commandhandler\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0773AE7D-891C-4F8F-AE69-1556E46EB053}|Domain\\Domain.csproj|d:\\lib\\product_manages\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0773AE7D-891C-4F8F-AE69-1556E46EB053}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,115 +43,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context\\AppDbContext.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
+              "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\UpdateProductHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:28:01.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\Configuration\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context\\Configuration\\UserConfiguration.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Infrastructure\\Context\\Configuration\\UserConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Context\\Configuration\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:26:40.109Z",
+              "WhenOpened": "2025-07-26T20:42:36.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:25:33.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:21:52.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Users\\Handlers\\CommandHandler\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Users\\Handlers\\CommandHandler\\LoginUserHandler.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Users\\Handlers\\CommandHandler\\LoginUserHandler.cs",
-              "RelativeToolTip": "Application\\Users\\Handlers\\CommandHandler\\LoginUserHandler.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:18:57.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginUserCommand.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Users\\Commands\\LoginUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Users\\Commands\\LoginUserCommand.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Users\\Commands\\LoginUserCommand.cs",
-              "RelativeToolTip": "Application\\Users\\Commands\\LoginUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:18:33.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterUserHandler.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Users\\Handlers\\CommandHandler\\RegisterUserHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Users\\Handlers\\CommandHandler\\RegisterUserHandler.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Users\\Handlers\\CommandHandler\\RegisterUserHandler.cs",
-              "RelativeToolTip": "Application\\Users\\Handlers\\CommandHandler\\RegisterUserHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:17:21.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterUserCommand.cs",
-              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Users\\Commands\\RegisterUserCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Users\\Commands\\RegisterUserCommand.cs",
-              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Users\\Commands\\RegisterUserCommand.cs",
-              "RelativeToolTip": "Application\\Users\\Commands\\RegisterUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:16:58.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\lib\\Product_Manages\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
               "ToolTip": "D:\\lib\\Product_Manages\\Api\\Program.cs",
               "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:09:37.465Z"
+              "WhenOpened": "2025-07-26T20:42:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
+              "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:39:59.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
+              "RelativeToolTip": "Application\\Products\\Handlers\\CommandHandler\\CreateProductHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:36:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\lib\\Product_Manages\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\lib\\Product_Manages\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:36:12.907Z",
+              "EditorCaption": ""
             }
           ]
         }

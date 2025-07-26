@@ -9,10 +9,57 @@
       "Application/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-          "MediatR": "13.0.0"
+          "DotNetOpenAuth.InfoCard.UI": "4.3.4.13329",
+          "MediatR": "13.0.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.3.0"
         },
         "runtime": {
           "Application.dll": {}
+        }
+      },
+      "DotNetOpenAuth.Core/4.3.4.13329": {
+        "dependencies": {
+          "Microsoft.Net.Http": "2.0.20505"
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.Core.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.4.13329"
+          }
+        }
+      },
+      "DotNetOpenAuth.Core.UI/4.3.4.13329": {
+        "dependencies": {
+          "DotNetOpenAuth.Core": "4.3.4.13329"
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.Core.UI.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.4.13329"
+          }
+        }
+      },
+      "DotNetOpenAuth.InfoCard/4.3.4.13329": {
+        "dependencies": {
+          "DotNetOpenAuth.Core": "4.3.4.13329"
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.InfoCard.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.4.13329"
+          }
+        }
+      },
+      "DotNetOpenAuth.InfoCard.UI/4.3.4.13329": {
+        "dependencies": {
+          "DotNetOpenAuth.Core.UI": "4.3.4.13329",
+          "DotNetOpenAuth.InfoCard": "4.3.4.13329"
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.InfoCard.UI.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.4.13329"
+          }
         }
       },
       "MediatR/13.0.0": {
@@ -34,6 +81,29 @@
           "lib/netstandard2.0/MediatR.Contracts.dll": {
             "assemblyVersion": "2.0.1.0",
             "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.3.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.3.0",
+          "System.Text.Encodings.Web": "8.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.25014"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.3.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.25014"
           }
         }
       },
@@ -141,6 +211,15 @@
           }
         }
       },
+      "Microsoft.Net.Http/2.0.20505": {
+        "runtime": {
+          "lib/net40/System.Net.Http.WebRequest.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/8.0.0": {},
       "Domain/1.0.0": {
         "runtime": {
           "Domain.dll": {
@@ -157,6 +236,34 @@
       "serviceable": false,
       "sha512": ""
     },
+    "DotNetOpenAuth.Core/4.3.4.13329": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sgTuUWHv5tn1weh8jLqXytGQKWpebhk+D4e/RTNNH21eqCEs/ch+x7YxQxzp2u70DO1Hvcjb6dTDj2rO3grgxA==",
+      "path": "dotnetopenauth.core/4.3.4.13329",
+      "hashPath": "dotnetopenauth.core.4.3.4.13329.nupkg.sha512"
+    },
+    "DotNetOpenAuth.Core.UI/4.3.4.13329": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xd7tQ1TDolBUedrNaCZkvaQ7zeBmo7pzuWvrANGsAAzv+KOyUYAA4ATgp6H0MW+K682hjCrAEo0G/7wFRPBIWA==",
+      "path": "dotnetopenauth.core.ui/4.3.4.13329",
+      "hashPath": "dotnetopenauth.core.ui.4.3.4.13329.nupkg.sha512"
+    },
+    "DotNetOpenAuth.InfoCard/4.3.4.13329": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKPCMoX9rZWU+kYbdpWyaQZnXp9EU8Y4W81NfM+kV/Nlb+01b9QTJvT3K6XeAou7habnrNEXQg0iAjYS7AeDwg==",
+      "path": "dotnetopenauth.infocard/4.3.4.13329",
+      "hashPath": "dotnetopenauth.infocard.4.3.4.13329.nupkg.sha512"
+    },
+    "DotNetOpenAuth.InfoCard.UI/4.3.4.13329": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YS6cxh3Y3jIwc6srlcjFwgMY2mnErFLVaPaScq5/eCBt+7UcCyYlZxD4qOH+Am69TogSVZa1AV/jwn+qMq8lOw==",
+      "path": "dotnetopenauth.infocard.ui/4.3.4.13329",
+      "hashPath": "dotnetopenauth.infocard.ui.4.3.4.13329.nupkg.sha512"
+    },
     "MediatR/13.0.0": {
       "type": "package",
       "serviceable": true,
@@ -170,6 +277,20 @@
       "sha512": "sha512-FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
       "path": "mediatr.contracts/2.0.1",
       "hashPath": "mediatr.contracts.2.0.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-39r9PPrjA6s0blyFv5qarckjNkaHRA5B+3b53ybuGGNTXEj1/DStQJ4NWjFL6QTRQpL9zt7nDyKxZdJOlcnq+Q==",
+      "path": "microsoft.aspnetcore.http.abstractions/2.3.0",
+      "hashPath": "microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f10WUgcsKqrkmnz6gt8HeZ7kyKjYN30PO7cSic1lPtH7paPtnQqXPOveul/SIPI43PhRD4trttg4ywnrEmmJpA==",
+      "path": "microsoft.aspnetcore.http.features/2.3.0",
+      "hashPath": "microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection/8.0.0": {
       "type": "package",
@@ -240,6 +361,20 @@
       "sha512": "sha512-kDimB6Dkd3nkW2oZPDkMkVHfQt3IDqO5gL0oa8WVy3OP4uE8Ij+8TXnqg9TOd9ufjsY3IDiGz7pCUbnfL18tjg==",
       "path": "microsoft.identitymodel.tokens/8.0.1",
       "hashPath": "microsoft.identitymodel.tokens.8.0.1.nupkg.sha512"
+    },
+    "Microsoft.Net.Http/2.0.20505": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XRsKQP2XEd/DGLerVsU+T2pKQGTFc9ctWsIVbRblL/y+jT/BUo28aJ5mWN40oAeUwwbpXshAc8uO/LRscWav9A==",
+      "path": "microsoft.net.http/2.0.20505",
+      "hashPath": "microsoft.net.http.2.0.20505.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yev/k9GHAEGx2Rg3/tU6MQh4HGBXJs70y7j1LaM1i/ER9po+6nnQ6RRqTJn1E7Xu0fbIFK80Nh5EoODxrbxwBQ==",
+      "path": "system.text.encodings.web/8.0.0",
+      "hashPath": "system.text.encodings.web.8.0.0.nupkg.sha512"
     },
     "Domain/1.0.0": {
       "type": "project",

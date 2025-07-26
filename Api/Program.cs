@@ -34,6 +34,8 @@ builder.Services.AddMediatR(cfg =>
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IJwtRepository, JwtRepository>();
 builder.Services.AddTransient<IAuthRepository, AuthRepository>();
+
+builder.Services.AddHttpContextAccessor();
 #endregion
 
 

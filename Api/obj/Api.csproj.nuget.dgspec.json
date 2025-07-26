@@ -169,9 +169,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "DotNetOpenAuth.InfoCard.UI": {
+              "target": "Package",
+              "version": "[4.3.4.13329, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[13.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             }
           },
           "imports": [

@@ -16,5 +16,8 @@ namespace Domain.Entities
         public bool IsAvailable { get; set; }
 
         public int CreatedByUserId { get; set; }
+
+
+       
     }
 }
