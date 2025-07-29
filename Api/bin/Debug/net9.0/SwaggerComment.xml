@@ -4,5 +4,54 @@
         <name>Api</name>
     </assembly>
     <members>
+        <member name="M:Api.Controllers.AuthController.Register(Application.Users.Commands.RegisterUserCommand)">
+            <summary>
+            ثبت نام
+            </summary>
+            <param name="command"> شماره همراه و رمز عبور </param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.AuthController.Login(Application.Users.Commands.LoginUserCommand)">
+            <summary>
+            ورود
+            </summary>
+            <param name="command"> شماره همراه و رمز عبور </param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.ProductsController.Create(Application.Products.Commands.CreateProductCommand)">
+            <summary>
+            افزودن محصول
+            </summary>
+            <param name="command"> نام و تاریخ و تلفن و ایمیل و موجود بودن</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.ProductsController.GetById(System.Int32)">
+            <summary>
+            جستجو محصول
+            </summary>
+            <param name="id"> شناسه محصول</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.ProductsController.GetAll">
+            <summary>
+            گرفتن تمام محصولات
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.ProductsController.Update(System.Int32,Application.Products.Commands.UpdateProductCommand)">
+            <summary>
+             ویرایش محصول
+            </summary>
+            <param name="command"> نام و تاریخ و تلفن و ایمیل و موجود بودن</param>
+             /// <param name="id"> شناسه محصول</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>
+            حذف محصول
+            </summary>
+            <param name="id"> شناسه محصول</param>
+            <returns></returns>
+        </member>
     </members>
 </doc>

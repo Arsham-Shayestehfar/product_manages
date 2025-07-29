@@ -16,6 +16,12 @@ namespace Api.Controllers
             _mediator = mediator;
         }
 
+
+        /// <summary>
+        /// ثبت نام
+        /// </summary>
+        /// <param name="command"> شماره همراه و رمز عبور </param>
+        /// <returns></returns>
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterUserCommand command)
         {
@@ -23,6 +29,12 @@ namespace Api.Controllers
             return Ok(res);
 
         }
+
+        /// <summary>
+        /// ورود
+        /// </summary>
+        /// <param name="command"> شماره همراه و رمز عبور </param>
+        /// <returns></returns>
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginUserCommand command)
         {

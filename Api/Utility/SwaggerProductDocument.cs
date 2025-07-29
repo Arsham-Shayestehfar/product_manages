@@ -19,7 +19,7 @@ namespace ApiProjs.Utilities
                 options.SwaggerDoc(item.GroupName,
       new OpenApiInfo()
       {
-          Title = $"Vila Api Version {item.ApiVersion}",
+          Title = $"product Api Version {item.ApiVersion}",
           Version =item.ApiVersion.ToString()
       });
             }
